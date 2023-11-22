@@ -235,7 +235,7 @@ main {
     left: 0;
 }
 
-/* solutions */
+/*solutions */
 
 .solutions {
     padding: 188px 0;
@@ -259,7 +259,7 @@ main {
     margin: 0 auto 48px;
 }
 
-/* benefits */
+/*benefits */
 
 .benefits_list {
     display: flex;
@@ -281,7 +281,7 @@ main {
     justify-content: center;
 }
 
-/* team */
+/*team */
 
 .team {
     background-color: #f4f4fd;
@@ -362,7 +362,7 @@ main {
     transform: translateY(0);
 }
 
-/* footer */
+/*footer */
 .footer {
     background: #2e2f42;
     padding: 100px 0;
